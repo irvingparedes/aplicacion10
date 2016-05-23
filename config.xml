@@ -13,10 +13,10 @@
 		   piano
 		</description>
 		
-		<prefence name="phonegap-version" value="3.1.0" />
-		<prefence name="orientation" value="landscape"/>
+		<preference name="phonegap-version" value="3.1.0" />
+		<preference name="orientation" value="landscape" />
 		<author href="https://buil.phonegap.com" email="support@phonegap.com">
-		irving paredes ramirez
+		Irving paredes ramirez
 		</author>
 		
 <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
