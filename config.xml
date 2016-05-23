@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
 	    xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "com.phonegap.example4"
+		id          = "com.phonegap.example10"
 		versionCode = "10"
 		version     = "1.0.0" >
 		
@@ -25,7 +25,7 @@
 <gap:plugin name="org.apache.cordova.geolocation" version="0.3.10"/>
 <gap:plugin name="org.apache.cordova.device-motion" version="0.2.10"/>
 <!-- plugin audio-->
-<gap:plugin name="com.rifun.cordova.plugin.lowlatencyaudio" version="1.0"/>
+<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0"/>
 
     <!-- Colocar icono app -->
 	
